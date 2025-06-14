@@ -1,5 +1,67 @@
 # Learning Management System (LMS) Backend API
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-akuk7%2FLMS--Backend-blue?logo=github)](https://github.com/akuk7/LMS-Backend.git)
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Live%20API-brightgreen?logo=vercel)](https://lms-backend-8p2ai154a-akuk7s-projects.vercel.app/)
+
+---
+
+## 🌐 Live Demo & Source Code
+
+- **GitHub Repository:** [https://github.com/akuk7/LMS-Backend.git](https://github.com/akuk7/LMS-Backend.git)
+- **Live API on Vercel:** [https://lms-backend-8p2ai154a-akuk7s-projects.vercel.app/](https://lms-backend-8p2ai154a-akuk7s-projects.vercel.app/)
+
+---
+
+## 🚀 Quick Start (Clone & Run Locally)
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/akuk7/LMS-Backend.git
+   cd LMS-Backend
+   ```
+
+2. **Pull latest changes (if already cloned):**
+   ```bash
+   git pull origin main
+   ```
+
+3. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+4. **Create a `.env` file in the root directory:**
+   ```env
+   # Server Configuration
+   PORT=3000
+
+   # MongoDB Connection
+   MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/lms?retryWrites=true&w=majority
+
+   # JWT Configuration
+   JWT_SECRET=your_secure_jwt_secret_here
+   JWT_EXPIRES_IN=7d
+   ```
+
+5. **Start the development server:**
+   ```bash
+   npm run dev
+   ```
+
+6. **Access the API locally:**
+   - Default: [http://localhost:3000/](http://localhost:3000/)
+
+---
+
+## 🚀 Deployed on Vercel
+
+This backend is deployed and live on Vercel:
+- **Live API:** [https://lms-backend-8p2ai154a-akuk7s-projects.vercel.app/](https://lms-backend-8p2ai154a-akuk7s-projects.vercel.app/)
+
+You can use this endpoint for frontend integration, testing, or demo purposes.
+
+---
+
 A robust backend API for a Learning Management System built with Node.js, Express, and MongoDB. This API provides comprehensive functionality for course management, user authentication, progress tracking, and quiz systems.
 
 ## 🚀 Features
