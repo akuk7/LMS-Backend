@@ -1,14 +1,14 @@
 # Learning Management System (LMS) Backend API
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-akuk7%2FLMS--Backend-blue?logo=github)](https://github.com/akuk7/LMS-Backend.git)
-[![Vercel Deployment](https://img.shields.io/badge/Vercel-Live%20API-brightgreen?logo=vercel)](https://lms-backend-8p2ai154a-akuk7s-projects.vercel.app/)
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Live%20API-brightgreen?logo=vercel)](https://lms-backend-git-main-akuk7s-projects.vercel.app)
 
 ---
 
 ## 🌐 Live Demo & Source Code
 
 - **GitHub Repository:** [https://github.com/akuk7/LMS-Backend.git](https://github.com/akuk7/LMS-Backend.git)
-- **Live API on Vercel:** [https://lms-backend-8p2ai154a-akuk7s-projects.vercel.app/](https://lms-backend-8p2ai154a-akuk7s-projects.vercel.app/)
+- **Live API on Vercel:** [https://lms-backend-git-main-akuk7s-projects.vercel.app](https://lms-backend-git-main-akuk7s-projects.vercel.app)
 
 ---
 
@@ -56,7 +56,7 @@
 ## 🚀 Deployed on Vercel
 
 This backend is deployed and live on Vercel:
-- **Live API:** [https://lms-backend-8p2ai154a-akuk7s-projects.vercel.app/](https://lms-backend-8p2ai154a-akuk7s-projects.vercel.app/)
+- **Live API:** [https://lms-backend-git-main-akuk7s-projects.vercel.app](https://lms-backend-git-main-akuk7s-projects.vercel.app)
 
 You can use this endpoint for frontend integration, testing, or demo purposes.
 
